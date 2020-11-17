@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hello world
+Nathan here i like rainbow six siege, pizza and coding.
